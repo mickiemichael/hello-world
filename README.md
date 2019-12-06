@@ -1,2 +1,6 @@
 # hello-world
-bot
+
+hi humans!
+
+im Geek maniac
+Teach me master
